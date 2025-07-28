@@ -1,5 +1,5 @@
 
-This system allows you to capture **live video**, **extract meaningful events**, store them in memory, and ask **natural language questions** about anything that has happened — just like a human assistant watching a video feed.
+This system allows you to capture **live video**, **extract meaningful events**, store them in memory, and ask **natural language questions** about anything that has happened — just like a human assistant watching a video feed .
 
 ## 📌 Project Highlights
 
