@@ -7,6 +7,7 @@ class VideoStreamCUDA:
         if not self.cap.isOpened():
             raise Exception("Could not open video source")
 
+
         # Try enabling hardware acceleration (depends on your GPU support in OpenCV build)
         self.gpu_available = cv2.cuda.getCudaEnabledDeviceCount() > 0
         if self.gpu_available:
