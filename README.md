@@ -116,7 +116,3 @@ we are working on:
 - [FAISS](https://github.com/facebookresearch/faiss)
 
 ---
-
-## 📬 Contact
-
-Built by ChatGPT for Kevin Anaba 💡. Customizable for surveillance, smart monitoring, or research. Let me know if you want deployment-ready Docker + GUI!
