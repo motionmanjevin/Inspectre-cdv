@@ -75,6 +75,9 @@ def main():
         except KeyboardInterrupt:
             logger.info("QA mode interrupted.")
             break
+        except KeyboardInterrupt:
+            logger.info("QA mode intercepted.")
+            break
         except Exception as e:
             logger.error(f"Error during QA: {e}")
 
