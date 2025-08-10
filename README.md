@@ -66,7 +66,7 @@ During initial needs assessment at KBTH, three **major pain points** were identi
 - Reviewing past cases for training or audits is time-consuming.
     
 - Finding a specific event in a surgery (e.g., start of tumor removal) requires manual scrubbing.
-    ![[Inspectre - AI-Powered Healthcare Dashboard - Google Chrome 8_10_2025 11_23_51 PM.png]]
+    ![alt text](<Inspectre - AI-Powered Healthcare Dashboard - Google Chrome 8_10_2025 11_23_51 PM.png>)!
 
 ### **Challenge 3 – Outpatient Congestion & Poor Flow Tracking**
 
