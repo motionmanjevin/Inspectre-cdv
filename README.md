@@ -57,7 +57,7 @@ During initial needs assessment at KBTH, three **major pain points** were identi
 - No unified, real-time dashboard for doctors, nurses, and specialists to track all patients’ statuses.
     
 - Critical changes (falls, inactivity, deterioration) can go unnoticed until it’s too late.
-    ![[Inspectre - AI-Powered Healthcare Dashboard - Google Chrome 8_10_2025 11_22_59 PM.png]]
+   ![alt text](<Inspectre - AI-Powered Healthcare Dashboard - Google Chrome 8_10_2025 11_22_59 PM.png>) 
 
 ### **Challenge 2 – Unstructured Surgical Documentation**
 
@@ -75,7 +75,7 @@ During initial needs assessment at KBTH, three **major pain points** were identi
 - Vulnerable patients (elderly, disabled, pregnant) can end up waiting too long without priority.
     
 - No real-time analytics to optimize staffing or patient routing.
-    ![[Inspectre - AI-Powered Healthcare Dashboard - Google Chrome 8_10_2025 11_24_04 PM 1.png]]
+    ![alt text](<Inspectre - AI-Powered Healthcare Dashboard - Google Chrome 8_10_2025 11_24_04 PM.png>)
 
 ---
 
@@ -166,7 +166,7 @@ While Inspectre at KBTH starts with these three modules, its architecture allows
 
 # VIDEO DEMONSTRATION
 
-![[Project 3.mp4]]
+<video controls src="Project 3.mp4" title="Title"></video>
 ---
 
 
